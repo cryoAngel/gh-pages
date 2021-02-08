@@ -1,3 +1,6 @@
+body{
+  background-color: black;
+} 
 p {
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -181,7 +184,7 @@ h2 {
   background: white;                         /* White background */
   padding: 30px;                             /* Internal space */
   border-radius: 4px;                        /* Small radius */
-  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  box-shadow: 0 10px 30px rgba(255, 255, 255, 0.1);
   margin-bottom: 10px;
   transition: 0.2s;
 }
