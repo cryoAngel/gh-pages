@@ -139,7 +139,7 @@ h2 {
 
 #btn-fun:hover {
   background: white;
-  color: rgba(255, 177, 0, 1);
+  color: rgb(255, 0, 0);
   transition: 0.2s;
 }
 
