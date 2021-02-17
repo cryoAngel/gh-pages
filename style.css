@@ -2,7 +2,8 @@
   padding: 0;
   margin: 0;
   background-color: black;
-  background-image: images/pirateFlag.jpg ;
+  background-image:url(images/pirateFlag.jpg);
+  background-image: repeat;
 } 
 p {
   text-align: center;
